@@ -1,6 +1,6 @@
 # ![VPSToolBox](logo.png)
 
-[TG Channel](https://t.me/vpstoolbox) [简体中文](README.md)
+[TG Channel]([https://t.me/vpstoolbox](https://t.me/upx8_com)) [简体中文](README.md)
 
 Tired of always needing to manually enter commands to install blog, online drive, RSS, email, proxy? VPSToolBox provides a complete set of fully automated solutions, free your hands, starting today!
 
